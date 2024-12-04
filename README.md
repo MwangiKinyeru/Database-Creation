@@ -74,11 +74,5 @@ A database named Nitram Cooperative Bank was created in PostgreSQL.
 The tables were created using SQL scripts with appropriate constraints (e.g., primary and foreign keys).
 Table Creation: SQL commands were used to create tables as defined in the schema above. 
 
-### Images 
-
-![faker data generation](Pictures/faker_data_generation.PNG "Records per Table")
-![Preview Tables](Pictures/Preview Tables.PNG "shows Table")
-![Preview Customer Table](Preview Customer Table.PNG "Customers Records")
-![SQL Commands](Pictures/SQL Commands.PNG "Customers Records")
 
 
