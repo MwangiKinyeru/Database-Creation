@@ -14,10 +14,15 @@ The data was generated using the Python library Faker, which creates realistic m
 The datasets generated include the following:
 
 Customers: Contains customer details such as name, email, phone, and address.
+
 Branches: Lists branch information like branch name, address, and contact number.
+
 Accounts: Holds details about customer accounts, account types, balances, and opening dates.
+
 Loans: Includes information on customer loans, such as loan amounts, interest rates, and loan duration.
+
 Transactions: Tracks transactions performed on accounts, including deposits, withdrawals, and transfers.
+
 Each dataset was exported as a CSV file for subsequent loading into the PostgreSQL database.
 
 ### Database Design
